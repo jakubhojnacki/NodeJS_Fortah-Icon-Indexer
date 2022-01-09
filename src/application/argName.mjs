@@ -9,6 +9,7 @@ import { EnumItem } from "core-library";
 export class ArgName {
     static get sourcePath() { return "SourcePath"; }
     static get destinationPath() { return "DestinationPath"; }
+    //TODO - add link name
 
     static get values() { return [
         new EnumItem(ArgName.sourcePath),

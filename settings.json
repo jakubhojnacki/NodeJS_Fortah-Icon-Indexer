@@ -1,0 +1,162 @@
+{
+    "sizes": [
+        {
+            "size": 16,
+            "directory": "0016"
+        },
+        {
+            "size": 24,
+            "directory": "0024"
+        },
+        {
+            "size": 32,
+            "directory": "0032"
+        },
+        {
+            "size": 48,
+            "directory": "0048"
+        },
+        {
+            "size": 64,
+            "directory": "0064"
+        },
+        {
+            "size": 128,
+            "directory": "0128"
+        },
+        {
+            "size": 256,
+            "directory": "0256"
+        }
+    ],
+    "directories": [
+        {
+            "directory": "Applications",
+            "context": "Applications"
+        },
+        {
+            "directory": "Archiving",
+            "context": ""
+        },           
+        {
+            "directory": "Bins",
+            "context": ""
+        },
+        {
+            "directory": "Business",
+            "context": ""
+        },
+        {
+            "directory": "Charts",
+            "context": ""
+        },
+        {
+            "directory": "CRM",
+            "context": ""
+        },
+        {
+            "directory": "Development",
+            "context": ""
+        },
+        {
+            "directory": "Dynamics",
+            "context": ""
+        },
+        {
+            "directory": "Energy",
+            "context": ""
+        },
+        {
+            "directory": "Flags",
+            "context": ""
+        },
+        {
+            "directory": "Graphics",
+            "context": ""
+        },        
+        {
+            "directory": "Hardware",
+            "context": ""
+        },
+        {
+            "directory": "Internet and Network",
+            "context": ""
+        },
+        {
+            "directory": "Logistics",
+            "context": ""
+        },
+        {
+            "directory": "Mail and News",
+            "context": ""
+        },
+        {
+            "directory": "Miscellaneous",
+            "context": ""
+        },        
+        {
+            "directory": "Mobile",
+            "context": ""
+        },
+        {
+            "directory": "Music",
+            "context": ""
+        },
+        {
+            "directory": "Navigation",
+            "context": ""
+        },
+        {
+            "directory": "Office",
+            "context": ""
+        },
+        {
+            "directory": "Performance",
+            "context": ""
+        },        
+        {
+            "directory": "Places",
+            "context": ""
+        },
+        {
+            "directory": "Postscript",
+            "context": ""
+        },
+        {
+            "directory": "Security",
+            "context": ""
+        },
+        {
+            "directory": "Settings and Tools",
+            "context": ""
+        },
+        {
+            "directory": "Storage",
+            "context": ""
+        },
+        {
+            "directory": "Symbols",
+            "context": ""
+        },
+        {
+            "directory": "System",
+            "context": ""
+        },
+        {
+            "directory": "Toolbar",
+            "context": ""
+        },
+        {
+            "directory": "Transport",
+            "context": ""
+        },
+        {
+            "directory": "Types",
+            "context": ""
+        },
+        {
+            "directory": "Video",
+            "context": ""
+        }
+    ]
+}

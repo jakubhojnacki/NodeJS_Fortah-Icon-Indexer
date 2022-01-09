@@ -1,0 +1,20 @@
+{
+    "name": "icon-indexer",
+    "displayName": "Icon Indexer",
+    "description": "Builds icon index to be used with Linux systems",
+    "version": "1.0.0",
+    "author": "Jakub Hojnacki <jakubhojnacki@gmail.com>",
+    "date": "January 2022",
+    "type": "module",
+    "main": "./src/main.mjs",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jakubhojnacki/directory-date-finder.git"
+    },
+    "dependencies": {
+        "console-library": "file:../../Libraries/ConsoleLibrary",
+        "core-library": "file:../../Libraries/CoreLibrary",
+        "file-system-library": "file:../../Libraries/FileSystemLibrary"
+    }
+}
